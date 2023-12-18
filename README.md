@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Khursheed
 - 👀 I’m interested in Application Devlopment.
-- 🌱 I’m currently learning Cross platform Application Development in Flutter.
+- 🌱 I’m currently working on Cross platform Application Development in Flutter.
 - 💞️ I’m looking to collaborate on any of the project related to Application Development.
 - 📫 You can reach me via this source or email.
 
